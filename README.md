@@ -21,6 +21,7 @@ The robot is designed to detect fire using sensors and automatically activate a 
 - Arduino Uno
 - Flame Sensor
 - Temperature Sensor
+- Smoke Sensor
 - Motor Driver
 - DC Motors
 - Relay Module
